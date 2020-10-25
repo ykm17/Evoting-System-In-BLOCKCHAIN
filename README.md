@@ -2,7 +2,8 @@
 This Evoting system is Created in TSEC HACKS 2020 HACKATHON.<br> 
 It is basic working model of Voting in elections made using Blockchain. Includes Ethereum, Ganache, Metamask as main technologies used.<br>
 Etherium is used as blockchain infra structure.<br>
-Ganache is used  to create smart contracts.<br>
+Ganache is used to view the blockchain on local machine.<br>
+Truffle is used to create smart contracts.<br>
 Metamask is used to put blockchain on the network and it is also a wallet.<br>
 
 Prequisite:<br>
